@@ -1,0 +1,15 @@
+#h1 {
+    margin-top: 0.5em;
+    color: rgb(190, 26, 190);
+    display: flex;
+  justify-content: center;
+
+}
+.box{
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#baslik{
+    display: block;text-align: center; margin-top: 0.5em
+}

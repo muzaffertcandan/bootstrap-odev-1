@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.center {
+  display: block;
+  text-align: center;
+}
+hr {
+  background-color: #3c3d3d;
+}
+
+
